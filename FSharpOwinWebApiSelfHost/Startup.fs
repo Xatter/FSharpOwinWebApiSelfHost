@@ -1,4 +1,5 @@
-namespace OpenPriceMap
+﻿module Startup
+
   open Owin
   open Microsoft.Owin
   open System.Web.Http
